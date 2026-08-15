@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-pwzc4l.salamduit.xyz/sitemap.xml
